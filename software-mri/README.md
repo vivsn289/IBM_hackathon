@@ -3,10 +3,7 @@
 > **Architectural observability for software systems.**
 > Powered by **IBM Bob**.
 
-Software MRI is a repository cognition platform. It takes a legacy codebase that
-"nobody fully understands anymore" and turns it into an observable operational
-structure — architecture graphs, execution flows, blast-radius prediction,
-technical-debt heatmaps, and modernization intelligence.
+Software MRI X-rays legacy codebases nobody understands anymore, exposing hidden architecture, blast-radius predictions, tech-debt hotspots, and AI-powered modernization intelligence. Turn decades of tribal knowledge into observable reality.
 
 This repo is our IBM Bob Hackathon submission for the
 **"Turn idea into impact faster"** challenge.
@@ -15,12 +12,7 @@ This repo is our IBM Bob Hackathon submission for the
 
 ## The Problem We're Solving
 
-Most enterprise modernization projects take 2–10 years. The bottleneck isn't
-writing new code — it's **understanding what the old code already does** without
-breaking compliance, business logic, or institutional knowledge.
-
-Current tools give you code search and static diagrams. They don't give you a
-*cognition layer*. We do.
+Enterprise modernization takes 2–10 years because nobody knows what the hell the old code does anymore. You can't rewrite what you don't understand. Legacy systems are billion-dollar black boxes running on tribal knowledge and prayer. One wrong move breaks compliance, business logic, or 30 years of institutional memory. Current tools? Code search and pretty diagrams. Useless. You need a **cognition layer** that reads the chaos, maps the blast radius, predicts what breaks, and tells you how to modernize without triggering financial Armageddon. That's what we built. Software archaeology meets AI-powered surgical precision. Turn "nobody knows how this works" into "here's exactly what happens and what breaks if you touch it." Because guessing is not a migration strategy.
 
 See [`docs/PROJECT_BRIEF.md`](docs/PROJECT_BRIEF.md) for the full thesis.
 

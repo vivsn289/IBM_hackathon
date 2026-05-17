@@ -28,3 +28,6 @@ build/
 # RepoLens runtime
 .cache/
 analysis-cache.json
+
+# NTFS Metadata
+*:Zone.Identifier
